@@ -16,4 +16,4 @@ Level 3 – Hard: Number from 1 to 200 with 5 attempts
 [Source Code](guess_a_number.py)
 
 # Screenshots
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screeshot.png)
